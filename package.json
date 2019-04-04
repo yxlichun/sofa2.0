@@ -26,6 +26,7 @@
     "commander": "^2.19.0",
     "iconv-lite": "^0.4.24",
     "inquirer": "^6.2.2",
-    "metalsmith": "^2.3.0"
+    "metalsmith": "^2.3.0",
+    "mongodb": "^3.2.2"
   }
 }
